@@ -14,133 +14,13 @@
  * limitations under the License.
  */
 
- filegroup {
+filegroup {
     name: "recovery_roboto-fonts_dep",
     export_to_make_var: "recovery_roboto-fonts_dep",
     srcs: [
         "*.otf",
         "*.ttf",
     ],
-}
-
-prebuilt_font {
-    name: "IBMPlexSans-BoldItalic.ttf",
-    src: "IBMPlexSans-BoldItalic.otf",
-}
-
-prebuilt_font {
-    name: "IBMPlexSans-Bold.ttf",
-    src: "IBMPlexSans-Bold.otf",
-}
-
-prebuilt_font {
-    name: "IBMPlexSansCondensed-BoldItalic.ttf",
-    src: "IBMPlexSansCondensed-BoldItalic.otf",
-}
-
-prebuilt_font {
-    name: "IBMPlexSansCondensed-Bold.ttf",
-    src: "IBMPlexSansCondensed-Bold.otf",
-}
-
-prebuilt_font {
-    name: "IBMPlexSansCondensed-Italic.ttf",
-    src: "IBMPlexSansCondensed-Italic.otf",
-}
-
-prebuilt_font {
-    name: "IBMPlexSansCondensed-LightItalic.ttf",
-    src: "IBMPlexSansCondensed-LightItalic.otf",
-}
-
-prebuilt_font {
-    name: "IBMPlexSansCondensed-Light.ttf",
-    src: "IBMPlexSansCondensed-Light.otf",
-}
-
-prebuilt_font {
-    name: "IBMPlexSansCondensed-MediumItalic.ttf",
-    src: "IBMPlexSansCondensed-MediumItalic.otf",
-}
-
-prebuilt_font {
-    name: "IBMPlexSansCondensed-Medium.ttf",
-    src: "IBMPlexSansCondensed-Medium.otf",
-}
-
-prebuilt_font {
-    name: "IBMPlexSansCondensed-Regular.ttf",
-    src: "IBMPlexSansCondensed-Regular.otf",
-}
-
-prebuilt_font {
-    name: "IBMPlexSans-ExtraLightItalic.ttf",
-    src: "IBMPlexSans-ExtraLightItalic.otf",
-}
-
-prebuilt_font {
-    name: "IBMPlexSans-ExtraLight.ttf",
-    src: "IBMPlexSans-ExtraLight.otf",
-}
-
-prebuilt_font {
-    name: "IBMPlexSans-Italic.ttf",
-    src: "IBMPlexSans-Italic.otf",
-}
-
-prebuilt_font {
-    name: "IBMPlexSans-LightItalic.ttf",
-    src: "IBMPlexSans-LightItalic.otf",
-}
-
-prebuilt_font {
-    name: "IBMPlexSans-Light.ttf",
-    src: "IBMPlexSans-Light.otf",
-}
-
-prebuilt_font {
-    name: "IBMPlexSans-MediumItalic.ttf",
-    src: "IBMPlexSans-MediumItalic.otf",
-}
-
-prebuilt_font {
-    name: "IBMPlexSans-Medium.ttf",
-    src: "IBMPlexSans-Medium.otf",
-}
-
-prebuilt_font {
-    name: "IBMPlexSans-Regular.ttf",
-    src: "IBMPlexSans-Regular.otf",
-}
-
-prebuilt_font {
-    name: "IBMPlexSans-SemiBoldItalic.ttf",
-    src: "IBMPlexSans-SemiBoldItalic.otf",
-}
-
-prebuilt_font {
-    name: "IBMPlexSans-SemiBold.ttf",
-    src: "IBMPlexSans-SemiBold.otf",
-}
-
-prebuilt_font {
-    name: "IBMPlexSans-TextItalic.ttf",
-    src: "IBMPlexSans-TextItalic.otf",
-}
-
-prebuilt_font {
-    name: "IBMPlexSans-Text.ttf",
-    src: "IBMPlexSans-Text.otf",
-}
-
-prebuilt_font {
-    name: "IBMPlexSans-ThinItalic.ttf",
-    src: "IBMPlexSans-ThinItalic.otf",
-}
-
-prebuilt_font {
-    name: "IBMPlexSans-Thin.ttf",
-    src: "IBMPlexSans-Thin.otf",
 }
 
 prebuilt_font {
