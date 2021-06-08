@@ -9,3 +9,26 @@ IBM Plex Sans, the default fonts on hentaiOS.
 Local Modifications:
 This directory tracks the upstream release with patched name to respective Roboto
 drop-in replacement of it. The tools are not included.
+
+--------------------------------------------------------------
+
+URL: https://github.com/googlefonts/noto-fonts
+Version: 20201206-phase3
+License: SIL Open Font License, Version 1.1
+License File: NOTICE
+
+Description:
+Noto Fonts, Beautiful and free fonts for all languages, used for fallback font for
+resolving Tofu font issue with Inter.
+
+--------------------------------------------------------------
+
+URL: https://github.com/unicode-org/last-resort-font/releases/download/13.001/LastResort-Regular.ttf
+Version: 13.001
+License: SIL Open Font License, Version 1.1
+License File: NOTICE
+
+Description:
+Last Resort, a special-purpose font that includes a collection of glyphs to represent
+types of Unicode characters. for absolute Last Resort fallback scenario.
+

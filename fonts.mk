@@ -17,16 +17,23 @@
 # get installed too.
 
 PRODUCT_PACKAGES += \
-    Roboto-BoldItalic.ttf \
-    Roboto-Bold.ttf \
+    LastResort.ttf \
+    NotoSans-BoldItalic.ttf \
+    NotoSans-Bold.ttf \
+    NotoSans-Italic.ttf \
+    NotoSans-Regular.ttf \
     RobotoCondensed-BoldItalic.ttf \
     RobotoCondensed-Bold.ttf \
     RobotoCondensed-Italic.ttf \
     RobotoCondensed-LightItalic.ttf \
     RobotoCondensed-Light.ttf \
-    RobotoCondensed-MediumItalic.ttf \
-    RobotoCondensed-Medium.ttf \
     RobotoCondensed-Regular.ttf \
+    Roboto-BlackItalic.ttf \
+    Roboto-Black.ttf \
+    Roboto-BoldItalic.ttf \
+    Roboto-Bold.ttf \
+    Roboto-ExtraBoldItalic.ttf \
+    Roboto-ExtraBold.ttf \
     Roboto-ExtraLightItalic.ttf \
     Roboto-ExtraLight.ttf \
     Roboto-Italic.ttf \
@@ -37,7 +44,5 @@ PRODUCT_PACKAGES += \
     Roboto-Regular.ttf \
     Roboto-SemiBoldItalic.ttf \
     Roboto-SemiBold.ttf \
-    Roboto-TextItalic.ttf \
-    Roboto-Text.ttf \
     Roboto-ThinItalic.ttf \
     Roboto-Thin.ttf \
