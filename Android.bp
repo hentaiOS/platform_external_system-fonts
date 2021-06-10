@@ -29,6 +29,16 @@ prebuilt_font {
 }
 
 prebuilt_font {
+    name: "NotoSans-BlackItalic.ttf",
+    src: "NotoSans-BlackItalic.ttf",
+}
+
+prebuilt_font {
+    name: "NotoSans-Black.ttf",
+    src: "NotoSans-Black.ttf",
+}
+
+prebuilt_font {
     name: "NotoSans-BoldItalic.ttf",
     src: "NotoSans-BoldItalic.ttf",
 }
@@ -39,13 +49,63 @@ prebuilt_font {
 }
 
 prebuilt_font {
+    name: "NotoSans-ExtraBoldItalic.ttf",
+    src: "NotoSans-ExtraBoldItalic.ttf",
+}
+
+prebuilt_font {
+    name: "NotoSans-ExtraBold.ttf",
+    src: "NotoSans-ExtraBold.ttf",
+}
+
+prebuilt_font {
+    name: "NotoSans-ExtraLightItalic.ttf",
+    src: "NotoSans-ExtraLightItalic.ttf",
+}
+
+prebuilt_font {
+    name: "NotoSans-ExtraLight.ttf",
+    src: "NotoSans-ExtraLight.ttf",
+}
+
+prebuilt_font {
     name: "NotoSans-Italic.ttf",
     src: "NotoSans-Italic.ttf",
 }
 
 prebuilt_font {
+    name: "NotoSans-LightItalic.ttf",
+    src: "NotoSans-LightItalic.ttf",
+}
+
+prebuilt_font {
+    name: "NotoSans-Light.ttf",
+    src: "NotoSans-Light.ttf",
+}
+
+prebuilt_font {
+    name: "NotoSans-MediumItalic.ttf",
+    src: "NotoSans-MediumItalic.ttf",
+}
+
+prebuilt_font {
+    name: "NotoSans-Medium.ttf",
+    src: "NotoSans-Medium.ttf",
+}
+
+prebuilt_font {
     name: "NotoSans-Regular.ttf",
     src: "NotoSans-Regular.ttf",
+}
+
+prebuilt_font {
+    name: "NotoSans-ThinItalic.ttf",
+    src: "NotoSans-ThinItalic.ttf",
+}
+
+prebuilt_font {
+    name: "NotoSans-Thin.ttf",
+    src: "NotoSans-Thin.ttf",
 }
 
 prebuilt_font {
