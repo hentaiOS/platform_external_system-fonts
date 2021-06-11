@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "351bdccd_5619ea5b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000010
+      },
+      "writtenOn": "2021-06-11T18:05:40Z",
+      "side": 1,
+      "message": "It\u0027s a non-breaking changes to inline our README for SystemFont.",
+      "revId": "3250cc75cf27ab705e695d3be52c3c711253f485",
+      "serverId": "a52bd38b-7152-4807-b78b-f7d9bfbe43aa"
+    }
+  ]
+}
