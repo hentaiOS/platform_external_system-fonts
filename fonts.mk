@@ -21,12 +21,12 @@ PRODUCT_PACKAGES += \
     Roboto-Black.ttf \
     Roboto-BoldItalic.ttf \
     Roboto-Bold.ttf \
-    Roboto-Condensed-BoldItalic.ttf \
-    Roboto-Condensed-Bold.ttf \
-    Roboto-Condensed-Italic.ttf \
-    Roboto-Condensed-LightItalic.ttf \
-    Roboto-Condensed-Light.ttf \
-    Roboto-Condensed-Regular.ttf \
+    RobotoCondensed-BoldItalic.ttf \
+    RobotoCondensed-Bold.ttf \
+    RobotoCondensed-Italic.ttf \
+    RobotoCondensed-LightItalic.ttf \
+    RobotoCondensed-Light.ttf \
+    RobotoCondensed-Regular.ttf \
     Roboto-Italic.ttf \
     Roboto-LightItalic.ttf \
     Roboto-Light.ttf \

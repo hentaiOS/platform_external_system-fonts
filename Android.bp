@@ -44,32 +44,32 @@ prebuilt_font {
 }
 
 prebuilt_font {
-    name: "Roboto-Condensed-BoldItalic.ttf",
+    name: "RobotoCondensed-BoldItalic.ttf",
     src: "HarmonyOS-Sans-Condensed-BoldItalic.ttf",
 }
 
 prebuilt_font {
-    name: "Roboto-Condensed-Bold.ttf",
+    name: "RobotoCondensed-Bold.ttf",
     src: "HarmonyOS-Sans-Condensed-Bold.ttf",
 }
 
 prebuilt_font {
-    name: "Roboto-Condensed-Italic.ttf",
+    name: "RobotoCondensed-Italic.ttf",
     src: "HarmonyOS-Sans-Condensed-Italic.ttf",
 }
 
 prebuilt_font {
-    name: "Roboto-Condensed-LightItalic.ttf",
+    name: "RobotoCondensed-LightItalic.ttf",
     src: "HarmonyOS-Sans-Condensed-LightItalic.ttf",
 }
 
 prebuilt_font {
-    name: "Roboto-Condensed-Light.ttf",
+    name: "RobotoCondensed-Light.ttf",
     src: "HarmonyOS-Sans-Condensed-Light.ttf",
 }
 
 prebuilt_font {
-    name: "Roboto-Condensed-Regular.ttf",
+    name: "RobotoCondensed-Regular.ttf",
     src: "HarmonyOS-Sans-Condensed-Regular.ttf",
 }
 
