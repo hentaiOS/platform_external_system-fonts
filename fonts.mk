@@ -17,12 +17,25 @@
 # get installed too.
 
 PRODUCT_PACKAGES += \
+    Roboto-BlackItalic.ttf \
+    Roboto-Black.ttf \
+    Roboto-BoldItalic.ttf \
+    Roboto-Bold.ttf \
     RobotoCondensed-BoldItalic.ttf \
     RobotoCondensed-Bold.ttf \
     RobotoCondensed-Italic.ttf \
     RobotoCondensed-LightItalic.ttf \
     RobotoCondensed-Light.ttf \
     RobotoCondensed-Regular.ttf \
+    Roboto-Italic.ttf \
+    Roboto-LightItalic.ttf \
+    Roboto-Light.ttf \
+    Roboto-MediumItalic.ttf \
+    Roboto-Medium.ttf \
+    Roboto-ThinItalic.ttf \
+    Roboto-Thin.ttf \
+    InterVF-Italic.ttf \
+    InterVF-Roman.ttf \
     LastResort.ttf \
     NotoSans-BlackItalic.ttf \
     NotoSans-Black.ttf \
@@ -40,21 +53,4 @@ PRODUCT_PACKAGES += \
     NotoSans-Regular.ttf \
     NotoSans-ThinItalic.ttf \
     NotoSans-Thin.ttf \
-    Roboto-BlackItalic.ttf \
-    Roboto-Black.ttf \
-    Roboto-BoldItalic.ttf \
-    Roboto-Bold.ttf \
-    Roboto-ExtraBoldItalic.ttf \
-    Roboto-ExtraBold.ttf \
-    Roboto-ExtraLightItalic.ttf \
-    Roboto-ExtraLight.ttf \
-    Roboto-Italic.ttf \
-    Roboto-LightItalic.ttf \
-    Roboto-Light.ttf \
-    Roboto-MediumItalic.ttf \
-    Roboto-Medium.ttf \
     Roboto-Regular.ttf \
-    Roboto-SemiBoldItalic.ttf \
-    Roboto-SemiBold.ttf \
-    Roboto-ThinItalic.ttf \
-    Roboto-Thin.ttf \
