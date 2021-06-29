@@ -17,6 +17,12 @@
 # get installed too.
 
 PRODUCT_PACKAGES += \
+    RobotoCondensed-BoldItalic.ttf \
+    RobotoCondensed-Bold.ttf \
+    RobotoCondensed-Italic.ttf \
+    RobotoCondensed-LightItalic.ttf \
+    RobotoCondensed-Light.ttf \
+    RobotoCondensed-Regular.ttf \
     LastResort.ttf \
     NotoSans-BlackItalic.ttf \
     NotoSans-Black.ttf \
@@ -34,12 +40,6 @@ PRODUCT_PACKAGES += \
     NotoSans-Regular.ttf \
     NotoSans-ThinItalic.ttf \
     NotoSans-Thin.ttf \
-    RobotoCondensed-BoldItalic.ttf \
-    RobotoCondensed-Bold.ttf \
-    RobotoCondensed-Italic.ttf \
-    RobotoCondensed-LightItalic.ttf \
-    RobotoCondensed-Light.ttf \
-    RobotoCondensed-Regular.ttf \
     Roboto-BlackItalic.ttf \
     Roboto-Black.ttf \
     Roboto-BoldItalic.ttf \

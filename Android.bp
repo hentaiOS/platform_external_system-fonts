@@ -24,6 +24,36 @@ filegroup {
 }
 
 prebuilt_font {
+    name: "RobotoCondensed-BoldItalic.ttf",
+    src: "HarmonyOS-Sans-Condensed-BoldItalic.ttf",
+}
+
+prebuilt_font {
+    name: "RobotoCondensed-Bold.ttf",
+    src: "HarmonyOS-Sans-Condensed-Bold.ttf",
+}
+
+prebuilt_font {
+    name: "RobotoCondensed-Italic.ttf",
+    src: "HarmonyOS-Sans-Condensed-Italic.ttf",
+}
+
+prebuilt_font {
+    name: "RobotoCondensed-LightItalic.ttf",
+    src: "HarmonyOS-Sans-Condensed-LightItalic.ttf",
+}
+
+prebuilt_font {
+    name: "RobotoCondensed-Light.ttf",
+    src: "HarmonyOS-Sans-Condensed-Light.ttf",
+}
+
+prebuilt_font {
+    name: "RobotoCondensed-Regular.ttf",
+    src: "HarmonyOS-Sans-Condensed-Regular.ttf",
+}
+
+prebuilt_font {
     name: "LastResort.ttf",
     src: "LastResort.ttf",
 }
@@ -106,36 +136,6 @@ prebuilt_font {
 prebuilt_font {
     name: "NotoSans-Thin.ttf",
     src: "NotoSans-Thin.ttf",
-}
-
-prebuilt_font {
-    name: "RobotoCondensed-BoldItalic.ttf",
-    src: "RobotoCondensed-BoldItalic.ttf",
-}
-
-prebuilt_font {
-    name: "RobotoCondensed-Bold.ttf",
-    src: "RobotoCondensed-Bold.ttf",
-}
-
-prebuilt_font {
-    name: "RobotoCondensed-Italic.ttf",
-    src: "RobotoCondensed-Italic.ttf",
-}
-
-prebuilt_font {
-    name: "RobotoCondensed-LightItalic.ttf",
-    src: "RobotoCondensed-LightItalic.ttf",
-}
-
-prebuilt_font {
-    name: "RobotoCondensed-Light.ttf",
-    src: "RobotoCondensed-Light.ttf",
-}
-
-prebuilt_font {
-    name: "RobotoCondensed-Regular.ttf",
-    src: "RobotoCondensed-Regular.ttf",
 }
 
 prebuilt_font {
