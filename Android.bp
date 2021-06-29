@@ -24,33 +24,103 @@ filegroup {
 }
 
 prebuilt_font {
-    name: "RobotoCondensed-BoldItalic.ttf",
+    name: "Roboto-BlackItalic.ttf",
+    src: "HarmonyOS-Sans-BlackItalic.ttf",
+}
+
+prebuilt_font {
+    name: "Roboto-Black.ttf",
+    src: "HarmonyOS-Sans-Black.ttf",
+}
+
+prebuilt_font {
+    name: "Roboto-BoldItalic.ttf",
+    src: "HarmonyOS-Sans-BoldItalic.ttf",
+}
+
+prebuilt_font {
+    name: "Roboto-Bold.ttf",
+    src: "HarmonyOS-Sans-Bold.ttf",
+}
+
+prebuilt_font {
+    name: "Roboto-Condensed-BoldItalic.ttf",
     src: "HarmonyOS-Sans-Condensed-BoldItalic.ttf",
 }
 
 prebuilt_font {
-    name: "RobotoCondensed-Bold.ttf",
+    name: "Roboto-Condensed-Bold.ttf",
     src: "HarmonyOS-Sans-Condensed-Bold.ttf",
 }
 
 prebuilt_font {
-    name: "RobotoCondensed-Italic.ttf",
+    name: "Roboto-Condensed-Italic.ttf",
     src: "HarmonyOS-Sans-Condensed-Italic.ttf",
 }
 
 prebuilt_font {
-    name: "RobotoCondensed-LightItalic.ttf",
+    name: "Roboto-Condensed-LightItalic.ttf",
     src: "HarmonyOS-Sans-Condensed-LightItalic.ttf",
 }
 
 prebuilt_font {
-    name: "RobotoCondensed-Light.ttf",
+    name: "Roboto-Condensed-Light.ttf",
     src: "HarmonyOS-Sans-Condensed-Light.ttf",
 }
 
 prebuilt_font {
-    name: "RobotoCondensed-Regular.ttf",
+    name: "Roboto-Condensed-Regular.ttf",
     src: "HarmonyOS-Sans-Condensed-Regular.ttf",
+}
+
+prebuilt_font {
+    name: "Roboto-Italic.ttf",
+    src: "HarmonyOS-Sans-Italic.ttf",
+}
+
+prebuilt_font {
+    name: "Roboto-LightItalic.ttf",
+    src: "HarmonyOS-Sans-LightItalic.ttf",
+}
+
+prebuilt_font {
+    name: "Roboto-Light.ttf",
+    src: "HarmonyOS-Sans-Light.ttf",
+}
+
+prebuilt_font {
+    name: "Roboto-MediumItalic.ttf",
+    src: "HarmonyOS-Sans-MediumItalic.ttf",
+}
+
+prebuilt_font {
+    name: "Roboto-Medium.ttf",
+    src: "HarmonyOS-Sans-Medium.ttf",
+}
+
+prebuilt_font {
+    name: "Roboto-Regular.ttf",
+    src: "HarmonyOS-Sans-Regular.ttf",
+}
+
+prebuilt_font {
+    name: "Roboto-ThinItalic.ttf",
+    src: "HarmonyOS-Sans-ThinItalic.ttf",
+}
+
+prebuilt_font {
+    name: "Roboto-Thin.ttf",
+    src: "HarmonyOS-Sans-Thin.ttf",
+}
+
+prebuilt_font {
+    name: "InterVF-Italic.ttf",
+    src: "InterVF-Italic.ttf",
+}
+
+prebuilt_font {
+    name: "InterVF-Roman.ttf",
+    src: "InterVF-Roman.ttf",
 }
 
 prebuilt_font {
@@ -136,94 +206,4 @@ prebuilt_font {
 prebuilt_font {
     name: "NotoSans-Thin.ttf",
     src: "NotoSans-Thin.ttf",
-}
-
-prebuilt_font {
-    name: "Roboto-BlackItalic.ttf",
-    src: "Inter-BlackItalic.otf",
-}
-
-prebuilt_font {
-    name: "Roboto-Black.ttf",
-    src: "Inter-Black.otf",
-}
-
-prebuilt_font {
-    name: "Roboto-BoldItalic.ttf",
-    src: "Inter-BoldItalic.otf",
-}
-
-prebuilt_font {
-    name: "Roboto-Bold.ttf",
-    src: "Inter-Bold.otf",
-}
-
-prebuilt_font {
-    name: "Roboto-ExtraBoldItalic.ttf",
-    src: "Inter-ExtraBoldItalic.otf",
-}
-
-prebuilt_font {
-    name: "Roboto-ExtraBold.ttf",
-    src: "Inter-ExtraBold.otf",
-}
-
-prebuilt_font {
-    name: "Roboto-ExtraLightItalic.ttf",
-    src: "Inter-ExtraLightItalic.otf",
-}
-
-prebuilt_font {
-    name: "Roboto-ExtraLight.ttf",
-    src: "Inter-ExtraLight.otf",
-}
-
-prebuilt_font {
-    name: "Roboto-Italic.ttf",
-    src: "Inter-Italic.otf",
-}
-
-prebuilt_font {
-    name: "Roboto-LightItalic.ttf",
-    src: "Inter-LightItalic.otf",
-}
-
-prebuilt_font {
-    name: "Roboto-Light.ttf",
-    src: "Inter-Light.otf",
-}
-
-prebuilt_font {
-    name: "Roboto-MediumItalic.ttf",
-    src: "Inter-MediumItalic.otf",
-}
-
-prebuilt_font {
-    name: "Roboto-Medium.ttf",
-    src: "Inter-Medium.otf",
-}
-
-prebuilt_font {
-    name: "Roboto-Regular.ttf",
-    src: "Inter-Regular.otf",
-}
-
-prebuilt_font {
-    name: "Roboto-SemiBoldItalic.ttf",
-    src: "Inter-SemiBoldItalic.otf",
-}
-
-prebuilt_font {
-    name: "Roboto-SemiBold.ttf",
-    src: "Inter-SemiBold.otf",
-}
-
-prebuilt_font {
-    name: "Roboto-ThinItalic.ttf",
-    src: "Inter-ThinItalic.otf",
-}
-
-prebuilt_font {
-    name: "Roboto-Thin.ttf",
-    src: "Inter-Thin.otf",
 }
