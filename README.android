@@ -1,5 +1,5 @@
-URL: https://github.com/rsms/inter/releases/download/v3.18/Inter-3.18.zip
-Version: 3.18
+URL: https://github.com/rsms/inter/releases/download/v3.19/Inter-3.19.zip
+Version: 3.19
 License: SIL Open Font License, Version 1.1
 License File: NOTICE
 
@@ -32,3 +32,16 @@ Description:
 Last Resort, a special-purpose font that includes a collection of glyphs to represent
 types of Unicode characters. for absolute Last Resort fallback scenario.
 
+--------------------------------------------------------------
+
+URL: https://communityfile-drcn.op.hicloud.com/FileServer/getFile/cmtyPub/011/111/111/0000000000011111111.20210625173810.40360890550674733780000583530192:50520624094209:2800:5FA05314C5A2EA378CF3BF0B4C3E374060A3C9F5DD50A08A23D43C2AF2DC5DCB.zip?needInitFileName=true
+Version: 2021
+License: HarmonyOS Sans Fonts License Agreement
+License File: NOTICE
+
+Description:
+HarmonyOS Sans Font is a font that shipped with Huawei HarmonyOS.
+
+Local Modifications:
+This directory tracks the upstream release with patched name to respective Roboto
+drop-in replacement of it. The tools are not included.
