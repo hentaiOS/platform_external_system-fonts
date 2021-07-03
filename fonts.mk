@@ -24,22 +24,7 @@ PRODUCT_PACKAGES += \
     RobotoCondensed-Light.ttf \
     RobotoCondensed-Regular.ttf \
     LastResort.ttf \
-    NotoSans-BlackItalic.ttf \
-    NotoSans-Black.ttf \
-    NotoSans-BoldItalic.ttf \
-    NotoSans-Bold.ttf \
-    NotoSans-ExtraBoldItalic.ttf \
-    NotoSans-ExtraBold.ttf \
-    NotoSans-ExtraLightItalic.ttf \
-    NotoSans-ExtraLight.ttf \
-    NotoSans-Italic.ttf \
-    NotoSans-LightItalic.ttf \
-    NotoSans-Light.ttf \
-    NotoSans-MediumItalic.ttf \
-    NotoSans-Medium.ttf \
-    NotoSans-Regular.ttf \
-    NotoSans-ThinItalic.ttf \
-    NotoSans-Thin.ttf \
+    RobotoVF-Fallback.ttf \
     Roboto-BlackItalic.ttf \
     Roboto-Black.ttf \
     Roboto-BoldItalic.ttf \
