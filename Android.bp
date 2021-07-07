@@ -54,11 +54,6 @@ prebuilt_font {
 }
 
 prebuilt_font {
-    name: "LastResort.ttf",
-    src: "LastResort.ttf",
-}
-
-prebuilt_font {
     name: "RobotoVF-Fallback.ttf",
     src: "RobotoVF-Fallback.ttf",
 }

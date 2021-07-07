@@ -23,7 +23,6 @@ PRODUCT_PACKAGES += \
     RobotoCondensed-LightItalic.ttf \
     RobotoCondensed-Light.ttf \
     RobotoCondensed-Regular.ttf \
-    LastResort.ttf \
     RobotoVF-Fallback.ttf \
     Roboto-BlackItalic.ttf \
     Roboto-Black.ttf \
